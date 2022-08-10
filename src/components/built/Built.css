@@ -1,0 +1,45 @@
+.built-container{
+    height: 600px;
+}
+
+.built-heading{
+    margin-top: 90px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.33;
+    color: #0f0a4b;
+    text-align: center;
+}
+
+.annotation_heading{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #0f0a4b;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
+.annotation_subheading {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    color: #505050;
+    text-align: center;
+    line-height: 2.5;
+}
+
+.support_img{
+    margin-top: 10px;
+}
+
+.built_support{
+    display: flex;
+    width: 80%;
+    margin: 100px;
+}
+
+.built_feature{
+    flex: 1;
+    padding-left: 100px;
+    padding-bottom: 70px;
+}
